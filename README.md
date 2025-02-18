@@ -1,7 +1,5 @@
 # SauceDemoTesting
 
-This project is designed to automate the testing of the SauceDemo website using various testing frameworks and tools.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
