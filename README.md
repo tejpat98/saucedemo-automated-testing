@@ -12,13 +12,12 @@ SauceDemoTesting is a project to create an automated test suite using Java, Sele
 
 ![2SXnjuKyfM](https://github.com/user-attachments/assets/b7edcb47-723d-4187-b3e7-59c256ee18f7)
 
-
 Demo E-Commerce Website: https://www.saucedemo.com/
 (SauceDemo is a publicly accessible site for testing automation tools.)
 
 - Automated test scripts using Selenium WebDriver.
 - Structure tests using TestNG (annotations like @Test, @BeforeMethod, @AfterMethod).
-- Use Page Object Model (POM) to improve maintainability.
+- Use **Page Object Model** (POM) to improve maintainability.
 
 Tests covering:
 
@@ -27,9 +26,7 @@ Tests covering:
 - Shopping cart functionality
 - Checkout process
 
-
 https://github.com/user-attachments/assets/aca2a299-415f-4f20-b397-889f2aaeca5c
-
 
 ## Installation
 
