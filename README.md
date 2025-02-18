@@ -12,6 +12,9 @@ This project is designed to automate the testing of the SauceDemo website using 
 
 SauceDemoTesting is a project to create an automated test suite using Java, Selenium WebDriver, and TestNG to validate core functionalities of an demo e-commerce website.
 
+![2SXnjuKyfM](https://github.com/user-attachments/assets/b7edcb47-723d-4187-b3e7-59c256ee18f7)
+
+
 Demo E-Commerce Website: https://www.saucedemo.com/
 (SauceDemo is a publicly accessible site for testing automation tools.)
 
