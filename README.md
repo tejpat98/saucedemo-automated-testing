@@ -5,6 +5,7 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Page Object Model (POM) Implementation](#page-object-model-pom-implementation)
 
 ## Introduction
 
@@ -55,9 +56,7 @@ mvn test
 
 This will execute all the test scripts and generate a report of the test results.
 
-## Demo
-
-### Page Object Model (POM) Implementation
+## Page Object Model (POM) Implementation
 
 The Page Object Model (POM) is a design pattern that helps create an object repository for web UI elements. It improves test maintenance and reduces code duplication. Below is an example of how POM is implemented in the `LoginTest` and `LoginPage` classes.
 
