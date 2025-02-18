@@ -26,6 +26,10 @@ Tests covering:
 - Shopping cart functionality
 - Checkout process
 
+
+https://github.com/user-attachments/assets/aca2a299-415f-4f20-b397-889f2aaeca5c
+
+
 ## Installation
 
 To get started with SauceDemoTesting, follow these steps:
